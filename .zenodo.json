@@ -1,8 +1,8 @@
 {
   "title": "Shakespeare Digital New Variorum: Corpus, Alignment Pipeline, and Analysis Platform",
-  "description": "Archival release of the Shakespeare Digital New Variorum (Full Fathom Five) platform: OCR-derived JSON corpus of pre-1956 New Variorum Shakespeare dramatic editions, Folger alignment scripts, bibliographic resolution agents, Netlify serverless analysis functions, and retrieval-based lexical grounding (Onions 1911/1919, Schmidt 1902, Geneva Bible 1599). Live deployment: https://newvariorum.com",
+  "description": "Archival release of the Shakespeare Digital New Variorum (Full Fathom Five) platform: OCR-derived JSON corpus of pre-1956 New Variorum Shakespeare dramatic editions, Folger alignment scripts, bibliographic resolution agents, Netlify serverless analysis functions, and retrieval-based lexical grounding (Onions 1911/1919, Schmidt 1902, Geneva Bible 1599). Live deployment: https://newvariorum.com. Reading texts come from two sources: the Folger Shakespeare editions for eleven plays, which the Folger Shakespeare Library publishes under a Creative Commons Attribution-NonCommercial license, and the public-domain Moby/Globe text hosted at shakespeare.mit.edu for the other ten.",
   "upload_type": "software",
-  "publication_date": "2026-07-02",
+  "publication_date": "2026-10-26",
   "creators": [
     {
       "name": "Carson, Jack",
@@ -20,7 +20,7 @@
     "Full Fathom Five"
   ],
   "license": "mit",
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
